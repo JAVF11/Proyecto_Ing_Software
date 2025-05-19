@@ -17,7 +17,13 @@
 }
 
 .logo {
-    max-width: 300px;
+    max-width: 400px;
+    margin-bottom: 1rem;
+}
+
+.log {
+    max-width: 200px;
+    max-height: 200px;
     margin-bottom: 1rem;
 }
 
