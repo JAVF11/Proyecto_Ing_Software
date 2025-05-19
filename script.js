@@ -142,3 +142,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // Carga inicial
     manejarNavegacion();
 });
+
+
+
