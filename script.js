@@ -114,8 +114,8 @@ function manejarNavegacion() {
     // Validar secciones permitidas
     const seccionesValidas = [
         'presentacion', 'temario', 'objetivo', 
-        'introduccion', 'definiciones', 'ejemplos', 
-        'video', 'cuestionario', 'programa', 'bibliografia'
+        'introduccion', 'antecedentes', 'definiciones', 'presentaciones', 
+        'video', 'cuestionario', 'sopa_letras', 'descargables', 'bibliografia'
     ];
     
     if (seccionesValidas.includes(seccion)) {
